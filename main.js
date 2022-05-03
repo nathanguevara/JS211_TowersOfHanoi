@@ -21,7 +21,7 @@ let stacks = {
   b: [],
   c: []
 };
-
+//test
 // Start here. What is this function doing?
 const printStacks = () => {
   console.log("a: " + stacks.a);
